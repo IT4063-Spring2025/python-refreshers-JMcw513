@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zvIwKmam)
 # Python Refresher Exercises
 
 ## 🔍 Overview
@@ -95,21 +96,21 @@ PYDEVD_DISABLE_FILE_VALIDATION=1 JUPYTER_PLATFORM_DIRS=1 pytest --capture=sys
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . My python skills were definitely a little washed. I had to remember how to call functions and the different numpy operations.
 
 **I struggled with:** (repeat as needed)
-- .
+- . Never really got the grasp of Concatenating in python so I struggled there as well.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . 
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[6] hours. 3 classes and 3 individual hours at home.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- . Utilize w3schools for more notes and to review previous skills.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [18] out of 20.
 
 --------------------
 ## 📚 References and Citations
